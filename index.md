@@ -1,0 +1,38 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default 
+---
+
+
+I am a fourth-year Ph.D student at the department of computer science, the University of Chicago. I am working with Prof. [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing. Prior to that, My research was mainly focused on computer system and computer architecture.
+
+# Publication
+
+- [Generating Diverse Story Continuations with Controllable Semantics](#). Lifu Tu, **Xiaoan Ding**, Kevin Gimpel (EMNLP WNGT'19)  
+
+- [Latent-Variable Generative Models for Data-Efficient Text Classification](#). **Xiaoan Ding**, Kevin Gimpel (EMNLP'19)
+
+- [Cross-layer refresh mitigation for efficient and reliable DRAM systems: A comparative study](https://ieeexplore.ieee.org/document/8242065). **Xiaoan Ding**, Xi Liang, Yanjing Li (ITC'17)
+   
+- [JellyFish: Online Performance Tuning with Adaptive Configuration and Elastic Container in Hadoop Yarn.](https://ieeexplore.ieee.org/document/7384375). **Xiaoan Ding**, Yi Liu, Depei Qian (ICPADS'15)
+
+# Awards
+
+- UU Fellowship 2017
+- Google Excellence Scholarship 2012
+- National Schorlarship 2011
+
+# Contact
+
+- Email Address: xiaoanding at uchicago dot edu
+
+- Office Address: <br/>
+   JCL 375 <br/>
+   Department of Computer Science <br/>
+   The University of Chicago <br/>
+   5730 S. Ellis Avenue <br/>
+   Chicago, IL 60637 <br/>
+
+
