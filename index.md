@@ -19,7 +19,7 @@ Lifu Tu, **Xiaoan Ding**, Kevin Gimpel (EMNLP WNGT'19)
 - [Cross-layer refresh mitigation for efficient and reliable DRAM systems: A comparative study](https://ieeexplore.ieee.org/document/8242065).  
 **Xiaoan Ding**, Xi Liang, Yanjing Li (ITC'17)
    
-- [JellyFish: Online Performance Tuning with Adaptive Configuration and Elastic Container in Hadoop Yarn.](https://ieeexplore.ieee.org/document/7384375).  
+- [JellyFish: Online Performance Tuning with Adaptive Configuration and Elastic Container in Hadoop Yarn](https://ieeexplore.ieee.org/document/7384375).  
 **Xiaoan Ding**, Yi Liu, Depei Qian (ICPADS'15)
 
 # Awards
