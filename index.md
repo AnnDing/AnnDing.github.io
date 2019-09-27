@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-I am a fourth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing. Prior to that, My research was mainly focused on computer system and computer architecture.
+I am a fourth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing, Machine Learning, and Deep Learning. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
 
 # Publication
 
