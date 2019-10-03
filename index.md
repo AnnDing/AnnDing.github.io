@@ -10,12 +10,10 @@ I am a fourth-year Ph.D student at the department of computer science, the Unive
 
 # Publication
 
-- [Generating Diverse Story Continuations with Controllable Semantics]
-(https://arxiv.org/abs/1909.13434).  
+- [Generating Diverse Story Continuations with Controllable Semantics](https://arxiv.org/abs/1909.13434).
 Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)  
 
-- [Latent-Variable Generative Models for Data-Efficient Text Classification]
-(https://arxiv.org/abs/1910.00382).  
+- [Latent-Variable Generative Models for Data-Efficient Text Classification](https://arxiv.org/abs/1910.00382).
 **Xiaoan Ding**, Kevin Gimpel (EMNLP'19)
 
 - [Cross-layer refresh mitigation for efficient and reliable DRAM systems: A comparative study](https://ieeexplore.ieee.org/document/8242065).  
