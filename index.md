@@ -11,6 +11,7 @@ I am a fourth-year Ph.D student at the department of computer science, the Unive
 # Publication
 
 - [Generating Diverse Story Continuations with Controllable Semantics](https://arxiv.org/abs/1909.13434).  
+[code](https://github.com/AnnDing/Generative_classifier)
 Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)  
 
 - [Latent-Variable Generative Models for Data-Efficient Text Classification](https://arxiv.org/abs/1910.00382).  
