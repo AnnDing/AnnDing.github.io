@@ -15,7 +15,8 @@ I am a fifth-year Ph.D student at the department of computer science, the Univer
 **Xiaoan Ding** *, Tianyu Liu *, Baobao Chang, Zhifang Sui, Kevin Gimpel (EMNLP'20)
 
 - [An Empirical Study on Model-agnostic Debiasing Strategies for Robust Natural Language Inference](https://arxiv.org/abs/2010.03777).
-Tianyu Liu *, Xin Zheng *, **Xiaoan Ding**, Baobao Chang, Zhifang Sui
+
+Tianyu Liu *, Xin Zheng *, **Xiaoan Ding**, Baobao Chang, Zhifang Sui (CoNLL'2020)
 
 - [Generating Diverse Story Continuations with Controllable Semantics](https://arxiv.org/abs/1909.13434).  
 Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)  
