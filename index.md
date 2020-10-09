@@ -10,6 +10,10 @@ I am a fourth-year Ph.D student at the department of computer science, the Unive
 
 # Publication
 
+
+- [Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference](http://arxiv.org/abs/2010.03760).  
+**Xiaoan Ding** *, Tianyu Liu *, Baobao Chang, Zhifang Sui, Kevin Gimpel (EMNLP'20)
+
 - [Generating Diverse Story Continuations with Controllable Semantics](https://arxiv.org/abs/1909.13434).  
 Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)  
 
