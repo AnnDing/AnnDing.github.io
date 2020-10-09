@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-I am a fourth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing, Machine Learning, and Deep Learning. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
+I am a fifth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing, Machine Learning, and Deep Learning. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
 
 # Publication
 
@@ -27,8 +27,6 @@ Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)
 - [JellyFish: Online Performance Tuning with Adaptive Configuration and Elastic Container in Hadoop Yarn](https://ieeexplore.ieee.org/document/7384375).  
 **Xiaoan Ding**, Yi Liu, Depei Qian (ICPADS'15)
 
-
-** Equally contributed
 
 # Awards
 
