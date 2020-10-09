@@ -27,6 +27,9 @@ Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)
 - [JellyFish: Online Performance Tuning with Adaptive Configuration and Elastic Container in Hadoop Yarn](https://ieeexplore.ieee.org/document/7384375).  
 **Xiaoan Ding**, Yi Liu, Depei Qian (ICPADS'15)
 
+
+** Equally contributed
+
 # Awards
 
 - UU Fellowship 2017
