@@ -6,7 +6,23 @@ layout: default
 ---
 
 
-I am a fifth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing, Machine Learning, and Deep Learning. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
+<!-- I am a fifth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing, Machine Learning, and Deep Learning. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
+ -->
+<div class="row">
+    
+    <div class="column">
+        <h2> Xiaoan Ding </h2>
+        <h3>University of Chicago </h3>
+        <h3> Email: xiaoanding at uchicago dot edu </h3>
+        I am a fifth-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focus on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
+        <p></p>
+        I am currently searching for a full time position.
+    </div>
+    <div class="column" style="padding-right: 10px">
+        <img src="img/Programmed.jpg" title="Xiaoan" alt="Xiaoan Profile Image">
+        Whitney Musuem @ NYC, 2018
+    </div>
+</div>
 
 # Publication
 
