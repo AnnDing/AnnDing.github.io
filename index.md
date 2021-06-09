@@ -18,7 +18,7 @@ I am a final-year Ph.D student at the department of computer science, the Univer
 
 - **April 2021**. Presented my thesis proposal.
 
-# Selected Publication
+## Selected Publication
 
 
 - [FlowPrior: Learning Expressive Priors for Latent Variable Sentence Models](https://www.aclweb.org/anthology/2021.naacl-main.259.pdf).  
@@ -38,13 +38,13 @@ Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)
 **Xiaoan Ding**, Kevin Gimpel (EMNLP'19)
 
 
-# Awards
+## Awards
 
 - UU Fellowship 2017
 - Google Excellence Scholarship 2012
 - National Schorlarship 2011
 
-# Contact
+## Contact
 
 - Email Address: xiaoanding at uchicago dot edu
 
