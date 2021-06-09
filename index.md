@@ -41,7 +41,7 @@ Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)
 
 - Research Intern, **Microsoft**, Redmond, Washtington, 2021
 
-- Applied Scientist Intern, **Seattle**, Washtington, 2020
+- Applied Scientist Intern, **Amazon**, Seattle, Washtington, 2020
 
 - Research Intern, **Google**, NYC, New York, 2018
 
