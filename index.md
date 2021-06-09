@@ -36,12 +36,13 @@ layout: default
         <p></p>
         I am currently searching for a full time position.
     </div>
-    <div class="column" style="padding-right: 10px">
+    <div class="column" style="padding-right: 8px">
         <img src="img/Programmed.jpg" title="Xiaoan" alt="Xiaoan Profile Image">
         Whitney Musuem @ NYC, 2018
     </div>
 </div>
----
+
+
 # Publication
 
 
