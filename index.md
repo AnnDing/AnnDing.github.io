@@ -14,7 +14,7 @@ I am a final-year Ph.D student at the department of computer science, the Univer
 
 - **June 2021**. Presented at NAACL 2021 about my paper.
 - 
-- **May 2021**. Join Natural Language Processing Group - Microsoft Research as a summer intern.
+- **May 2021**. Joined Natural Language Processing Group - Microsoft Research as a summer intern.
 
 - **April 2021**. Presented my thesis proposal.
 
