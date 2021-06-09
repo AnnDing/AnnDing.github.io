@@ -8,43 +8,19 @@ layout: default
 
 I am a final-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focus on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence.
 
- 
- 
-<!-- <style>
-    {
-        box-sizing: border-box;
-    }
-    /* Set additional styling options for the columns*/
-    .column {
-    float: left;
-    width: 47%;
-    }
+Email Address: xiaoanding at uchicago dot edu
 
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }
-</style>
+## News
 
-<div class="row">
-    
-    <div class="column">
-        <h2> Xiaoan Ding </h2>
-        <h3>University of Chicago </h3>
-        <h3> Email: xiaoanding at uchicago dot edu </h3>
-        I am a fifth-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focus on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
-        <p></p>
-        I am currently searching for a full time position.
-    </div>
-    <div class="column" style="padding-right: 8px">
-        <img src="img/Programmed.jpg" title="Xiaoan" alt="Xiaoan Profile Image">
-        Whitney Musuem @ NYC, 2018
-    </div>
-</div> -->
+- **Now**. I am currently searching for a full time position! Feel free to reach out to me via <a href="https://www.linkedin.com/in/xiaoan-ding-232061214/">LinkedIn</a> or email.
 
+- **June 2021**. Presented at NAACL 2021 about my paper.
 
-# Publication
+- **May 2021**. Join Natural Language Processing Group - Microsoft Research as a summer intern.
+
+- **April 2021**. Presented my thesis proposal.
+
+# Selected Publication
 
 
 - [FlowPrior: Learning Expressive Priors for Latent Variable Sentence Models](https://www.aclweb.org/anthology/2021.naacl-main.259.pdf).  
@@ -62,12 +38,6 @@ Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)
 - [Latent-Variable Generative Models for Data-Efficient Text Classification](https://arxiv.org/abs/1910.00382).  
 **[[code](https://github.com/AnnDing/Generative_classifier)]**  
 **Xiaoan Ding**, Kevin Gimpel (EMNLP'19)
-
-- [Cross-layer refresh mitigation for efficient and reliable DRAM systems: A comparative study](https://ieeexplore.ieee.org/document/8242065).  
-**Xiaoan Ding**, Xi Liang, Yanjing Li (ITC'17)
-   
-- [JellyFish: Online Performance Tuning with Adaptive Configuration and Elastic Container in Hadoop Yarn](https://ieeexplore.ieee.org/document/7384375).  
-**Xiaoan Ding**, Yi Liu, Depei Qian (ICPADS'15)
 
 
 # Awards
