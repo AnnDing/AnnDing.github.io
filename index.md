@@ -6,7 +6,8 @@ layout: default
 ---
 
 
- I am a fifth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing, Machine Learning, and Deep Learning. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
+I am a final-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focus on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence.
+
  
  
 <!-- <style>
@@ -45,6 +46,9 @@ layout: default
 
 # Publication
 
+
+- [FlowPrior: Learning Expressive Priors for Latent Variable Sentence Models](https://www.aclweb.org/anthology/2021.naacl-main.259.pdf).  
+**Xiaoan Ding** , Kevin Gimpel (NAACL'21)
 
 - [Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference](http://arxiv.org/abs/2010.03760).  
 **Xiaoan Ding** *, Tianyu Liu *, Baobao Chang, Zhifang Sui, Kevin Gimpel (EMNLP'20)
