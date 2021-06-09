@@ -6,20 +6,19 @@ layout: default
 ---
 
 
-I am a final-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focus on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence.
+I am a final-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focuses on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence.
 
 ## News
 
 - **Now**. I am currently searching for a full time position! Connect with me via <a href="https://www.linkedin.com/in/xiaoan-ding-232061214/">LinkedIn</a> or email (xiaoanding at uchicago dot edu).
 
 - **June 2021**. Presented at NAACL 2021 about my paper.
-
+- 
 - **May 2021**. Join Natural Language Processing Group - Microsoft Research as a summer intern.
 
 - **April 2021**. Presented my thesis proposal.
 
 ## Selected Publication
-
 
 - [FlowPrior: Learning Expressive Priors for Latent Variable Sentence Models](https://www.aclweb.org/anthology/2021.naacl-main.259.pdf).  
 **Xiaoan Ding** , Kevin Gimpel (NAACL'21)
@@ -38,11 +37,33 @@ Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)
 **Xiaoan Ding**, Kevin Gimpel (EMNLP'19)
 
 
+## Internship During Ph.D.
+
+- Research Intern, Microsoft, Redmond, Washtington, 2021
+
+- Applied Scientist Intern, Seattle, Washtington, 2020
+
+- Research Intern, Google, NYC, New York, 2018
+
 ## Awards
 
 - UU Fellowship 2017
+
 - Google Excellence Scholarship 2012
+
 - National Schorlarship 2011
+
+## Teaching
+
+- TA of Natural Language Processing - Winter 2020 (designed homework and worked with undergraduate students on research projects)
+
+- TA of Machine Learning - Fall 2020
+
+- TA of Computational Linguistics - Spring 2020
+
+- TA of Introduction to Data Science - Autumn 2019
+
+- TA of Machine Learning for Public Policy - Spring 2019
 
 ## Contact
 
