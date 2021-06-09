@@ -8,6 +8,24 @@ layout: default
 
 <!-- I am a fifth-year Ph.D student at the department of computer science, the University of Chicago. I am working with [Prof. Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) on Natural Language Processing, Machine Learning, and Deep Learning. Prior to that, My research was mainly focused on Computer System and Computer Architecture.
  -->
+ 
+<style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 47%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+</style>
+
 <div class="row">
     
     <div class="column">
@@ -23,7 +41,7 @@ layout: default
         Whitney Musuem @ NYC, 2018
     </div>
 </div>
-
+---
 # Publication
 
 
