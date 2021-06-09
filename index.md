@@ -37,7 +37,7 @@ Lifu Tu, **Xiaoan Ding**, Dong Yu, Kevin Gimpel (EMNLP WNGT'19)
 **Xiaoan Ding**, Kevin Gimpel (EMNLP'19)
 
 
-## Internship During Ph.D.
+## Internship
 
 - Research Intern, Microsoft, Redmond, Washtington, 2021
 
