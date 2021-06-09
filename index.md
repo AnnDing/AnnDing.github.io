@@ -8,11 +8,9 @@ layout: default
 
 I am a final-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focus on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence.
 
-Email Address: xiaoanding at uchicago dot edu
-
 ## News
 
-- **Now**. I am currently searching for a full time position! Feel free to reach out to me via <a href="https://www.linkedin.com/in/xiaoan-ding-232061214/">LinkedIn</a> or email.
+- **Now**. I am currently searching for a full time position! Connect with me via <a href="https://www.linkedin.com/in/xiaoan-ding-232061214/">LinkedIn</a> or email (xiaoanding at uchicago dot edu).
 
 - **June 2021**. Presented at NAACL 2021 about my paper.
 
