@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-I have graduated from from the University of Chicago.
+I have graduated from the University of Chicago.
 
 ## News
 
