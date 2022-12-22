@@ -6,14 +6,16 @@ layout: default
 ---
 
 
-I am a final-year Ph.D student at the department of computer science, the University of Chicago. I am working with <a href="https://ttic.uchicago.edu/~kgimpel/">Prof. Kevin Gimpel</a> on Natural Language Processing, Machine Learning, and Deep Learning. My research focuses on neural model robustness in text classification, controllable text generation, and latent-variable modeling of sentence.
+I have graduated from from the University of Chicago.
 
 ## News
 
-- **Now**. I am currently searching for a full time position! Connect with me via <a href="https://www.linkedin.com/in/xiaoan-ding-232061214/">LinkedIn</a> or email (xiaoanding at uchicago dot edu).
+- **Now**. I joined Amazon Alexa AI as a research scientist. Connect with me via <a href="https://www.linkedin.com/in/xiaoan-ding-232061214/">LinkedIn</a> or email (xiaoanding at uchicago dot edu).
+
+- **June 2022**. Completed the Ph.D. dissertation defense! Thanks to my advisor, Kevin Gimpel! Thanks to my amazing thesis committee: Chenhao Tan, Sam Wiseman, and Janos Simon. 
 
 - **June 2021**. Presented at NAACL 2021 about my paper.
-- 
+ 
 - **May 2021**. Joined Natural Language Processing Group - Microsoft Research as a summer intern.
 
 - **April 2021**. Presented my thesis proposal.
